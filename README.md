@@ -10,7 +10,7 @@ A Java-based application designed to streamline and modernize the management of 
 - 🎟️ **Seat Booking System**: Students and staff can book available seats on preferred routes.
 - 🗃️ **MySQL Database Integration**: Robust data storage and retrieval using MySQL.
 
-## 🧑‍💻 Technologies Used
+## 🛠️ Technologies Used
 
 - **Language**: Java  
 - **GUI Framework**: Java Swing  
@@ -32,9 +32,5 @@ A Java-based application designed to streamline and modernize the management of 
 ![Screenshot 2025-04-30 211740](https://github.com/user-attachments/assets/a139fb01-c19c-426d-81db-41650869e474)
 ![Screenshot 2025-04-30 211756](https://github.com/user-attachments/assets/eb2e11a3-7216-4fdd-8b10-6bb1f8fc829e)
 ![Screenshot 2025-04-30 211812](https://github.com/user-attachments/assets/4e196184-f247-4e6f-93e2-7fee8274ebea)
-
-
-
-
 
 > Developed as a part of the OOP Lab Project at Daffodil International University.
