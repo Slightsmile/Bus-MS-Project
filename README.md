@@ -21,8 +21,8 @@ A Java-based application designed to streamline and modernize the management of 
 
 - Java JDK 8  
 - XAMPP (Apache & MySQL)  
-- MySQL Workbench (optional for DB management)  
-- IDE (e.g., IntelliJ, NetBeans, Eclipse)
+- MySQL Workbench (DB management)
+- Netbeans 8.0.2
 
 ## 📷 UI Snapshots
 
