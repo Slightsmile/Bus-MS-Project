@@ -1,4 +1,4 @@
-# 🚌 Bus Manaegement System Project
+# 🚌 Bus Management System Project
 
 A Java-based application designed to streamline and modernize the management of bus operations. The system provides a user-friendly platform for passengers, staff, and administrators to handle bus route management, scheduling, and seat bookings with improved efficiency and reduced manual effort.
 
